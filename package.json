@@ -2,7 +2,7 @@
   "name": "china-ex",
   "version": "0.0.2",
   "description": "中国制霸生成器",
-  "main": "docs/index.html",
+  "main": "html/index.html",
   "scripts": {
     "generate-font": "node generate-font-slice.js "
   },
@@ -19,10 +19,10 @@
     "url": "https://github.com/itorr/china-ex/issues"
   },
   "files": [
-    "docs/index.html",
-    "docs/document.css",
-    "docs/document.js",
-    "docs/slice.woff"
+    "html/index.html",
+    "html/document.css",
+    "html/document.js",
+    "html/slice.woff"
   ],
   "homepage": "https://github.com/itorr/china-ex#readme",
   "dependencies": {
