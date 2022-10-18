@@ -47,7 +47,7 @@ const 最小间距 = 6;
     设置等级标题.innerHTML = id;
     设置等级样式.display = 'block';
     const 设置等级元素方位 = 获取元素方位(设置等级);
-    
+
     let 左 = 数学.round(如何做爱元素.scrollLeft + 省元素方位.left + 省元素方位.width/2 - 设置等级元素方位.width/2);
     左 = 数学.min(
         左,
@@ -113,7 +113,7 @@ const 获取字体样式 = (字体名,回调)=>{
     设置延时(_=>如何做爱元素.removeAttribute('data-loading'),2e3);
 });
 
-const 宽 = 1134;
+const 宽 = 1180;
 const 高 = 976;
 const 比 = 2;
 
@@ -172,10 +172,10 @@ const 保存图像 = _=>{
             输出图像样式.display = '';
 
             设置延时(_=>{
-                下载文件(地址,`[神奇海螺][中国制霸]${+new Date()}.png`);
+                下载文件(地址,`[神奇海螺x李二牛][中国马拉松制霸]${+new Date()}.png`);
                 如何做爱元素.removeAttribute('data-running');
             },50)
-            
+
 
         },'image/png');
     });
