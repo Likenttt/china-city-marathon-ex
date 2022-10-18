@@ -2,11 +2,6 @@
 # 中国马拉松制霸生成器
 中国三十四省级行政区域内马拉松制霸标记生成工具
 
-
-https://lab.magiconch.com/china-ex/
-
-有感兴趣画简化矢量地图的小伙伴欢迎来一起整活儿~ 
-
 ## 功能
 可以在线标记对该行政区内赛事的参与程度，分6个程度：抽签未中、一次半马、一次全马、三次全马、永久号码以及默认的或有所耳闻，标记后可生成图片进行社区分享
 
@@ -27,27 +22,12 @@ https://lab.magiconch.com/china-ex/
  - 一次半马：在该省市参加过一次半马
  - 抽签未中：抽签过，但未中签
 
+## Credit
+
+https://lab.magiconch.com/china-ex/
+
 ## 提示
 请使用自带浏览器进行保存
-
-## 参考 
-参考自 https://zhung.com.tw/japanex/
-
-## 衍生
- - 吃货制霸 @lvwzhen https://github.com/lvwzhen/foodie-ex
- - 美国版 @tenpages https://github.com/tenpages/us-level
-## 微博
-https://weibo.com/1197780522/MaCGDCt6N
-
-# Credit
-## GitHub
-https://github.com/itorr/china-ex
-
-## 反馈
-https://github.com/itorr/china-ex/issues
-
-## 使用了
-腾祥嘉丽大圆
 
 ## 协议
 允许非商用非盈利的利用
